@@ -1,0 +1,1 @@
+export const lista:number[] = [7,4,1,5,8,3,12]
